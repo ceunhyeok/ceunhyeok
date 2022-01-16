@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceunhyeok (Choi Eunhyeok)
 - 💕 I love my girl friend, yejee
 - 🌱 I’m currently learning languages(python&English)
-- 💞️ I’m looking to collaborate on cshs 8th's programing study
+- 👀 I’m looking to collaborate on cshs 8th's programing study
 - 📫 How to reach me is to call my cell phone
 
 <!---
